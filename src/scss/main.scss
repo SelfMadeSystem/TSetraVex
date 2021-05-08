@@ -1,0 +1,10 @@
+$bg: black;
+
+body {
+    background: $bg;
+}
+
+canvas {
+    border: 1px solid white;
+    image-rendering: crisp-edges;
+}
